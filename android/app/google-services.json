@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902077517722",
+    "firebase_url": "https://freewifi-6e0aa.firebaseio.com",
+    "project_id": "freewifi-6e0aa",
+    "storage_bucket": "freewifi-6e0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902077517722:android:eb428b65ca13ee8b",
+        "android_client_info": {
+          "package_name": "com.example.freewifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902077517722-mdh8hii6p61qkivv5d1qvlanb5l4j51m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freewifi",
+            "certificate_hash": "c4dea7a13e7cce0736c33cdddf2e498d59eedba6"
+          }
+        },
+        {
+          "client_id": "902077517722-k2ora9at9u135v2mj3d6e788rgudiv68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfW2ZbXBnVj3t4DZJQvp6ILz_ZiT9IOmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902077517722-k2ora9at9u135v2mj3d6e788rgudiv68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
